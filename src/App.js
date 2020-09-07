@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>Hello Blog!</div>
+      <p>Hello react.js</p>
     </div>
   );
 }
